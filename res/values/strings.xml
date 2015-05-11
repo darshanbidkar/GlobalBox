@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlobalBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- Add account strings -->
+    <string name="fragment_add_dropbox">DropBox</string>
+    <string name="fragment_view_files">View my files</string>
+    <string name="fragment_add_one_drive">One Drive</string>
+    <color name="odd">#DDDDDD</color>
+    <color name="even">#F9F9F9</color>
+
+</resources>
