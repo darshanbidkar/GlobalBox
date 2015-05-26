@@ -8,7 +8,7 @@ This app helps you view contents of your cloud storages in a single view. You ca
 
 Future scope:
 <br>
--Integrate other cloud storages such as: Box, Google Drive, Google Docs, Google Sheets, etc.
--Enable sharing permissions (This is relatively an easy feature to integrate but due to the time constraints, we decided to put work on it later)
--Cross cloud file moving operations (copy/move files seamlessly over clouds)
--Imparting useful information (Provide the user with a pie chart or better about the total space available including all clouds)
+-Integrate other cloud storages such as: Box, Google Drive, Google Docs, Google Sheets, etc.<br>
+-Enable sharing permissions (This is relatively an easy feature to integrate but due to the time constraints, we decided to put work on it later)<br>
+-Cross cloud file moving operations (copy/move files seamlessly over clouds)<br>
+-Imparting useful information (Provide the user with a pie chart or better about the total space available including all clouds)<br>
